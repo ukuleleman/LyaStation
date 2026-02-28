@@ -2226,3 +2226,9 @@ Entries:
         different keys for the same uses.
   id: 279
   time: '2026-02-28T07:01:45.0000000+00:00'
+- author: nnif1
+  changes:
+    - type: Remove
+      message: Removed the mouse egg organ from mice
+  id: 280
+  time: '2026-02-28T11:48:10.0000000+00:00'
