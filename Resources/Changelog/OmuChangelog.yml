@@ -2526,3 +2526,9 @@ Entries:
       message: Rust walkers now get night vision.
   id: 318
   time: '2026-03-10T08:48:25.0000000+00:00'
+- author: Aureu
+  changes:
+    - type: Tweak
+      message: Fixed syringes interaction with Syringe guns
+  id: 319
+  time: '2026-03-10T08:49:12.0000000+00:00'
