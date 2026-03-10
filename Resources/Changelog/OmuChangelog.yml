@@ -2500,3 +2500,9 @@ Entries:
         manually cough
   id: 314
   time: '2026-03-09T10:52:32.0000000+00:00'
+- author: Aureu
+  changes:
+    - type: Fix
+      message: Removed paused asakim shuttle from ghost warp
+  id: 315
+  time: '2026-03-10T00:16:37.0000000+00:00'
