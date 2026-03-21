@@ -2698,3 +2698,11 @@ Entries:
       message: Cargo sop demands you ask CE before you smes farm... Beware...
   id: 343
   time: '2026-03-21T20:34:35.0000000+00:00'
+- author: RadsammyT
+  changes:
+    - type: Tweak
+      message: >-
+        EE Interaction Verbs "Hug" and "Pet" now trigger the Social Anxiety
+        trait.
+  id: 344
+  time: '2026-03-21T20:40:19.0000000+00:00'
