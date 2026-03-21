@@ -2768,3 +2768,11 @@ Entries:
       message: Fixes the nanorep getting a CCO fax.
   id: 352
   time: '2026-03-21T21:23:45.0000000+00:00'
+- author: BramvanZijp
+  changes:
+    - type: Add
+      message: >-
+        Added a toggleable light to the BSO's ensemble, which is identical to
+        that of the Elite BSO Cloak.
+  id: 353
+  time: '2026-03-21T21:28:03.0000000+00:00'
