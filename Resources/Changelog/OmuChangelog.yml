@@ -2971,3 +2971,9 @@ Entries:
       message: As sergeant, the cloak no longer spawns on your head.
   id: 380
   time: '2026-03-30T05:29:05.0000000+00:00'
+- author: Manni-Marco
+  changes:
+    - type: Tweak
+      message: Changed T8 Consistency's sprites to be less gray and more silver.
+  id: 381
+  time: '2026-03-30T05:32:14.0000000+00:00'
