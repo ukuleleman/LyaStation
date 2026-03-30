@@ -849,7 +849,7 @@
     earliestStart: 60 # OMU change - make lone-ops spawn later
     weight: 5.5       #Omu
     minimumPlayers: 20 #Omu keeping it lower for now cause playercount
-    duration: 1
+    duration: 720 # Goobstation - required for custom nuke music. 720s to ensure loneop can hear the music and still have space for other midrounds incase of failure
     chaos: # Goobstation
       Hostile: 200
       Medical: 200
@@ -862,6 +862,7 @@
   - type: LoadMapRule
     gridPath: /Maps/Shuttles/ShuttleEvent/striker.yml
   - type: NukeopsRule
+    localePrefix: "loneop-" #Goobstation
     roundEndBehavior: Nothing
   - type: AntagSelection
     definitions:
