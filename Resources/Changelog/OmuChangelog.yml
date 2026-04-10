@@ -3303,3 +3303,11 @@ Entries:
       message: More Inhuman StationAI Holograms
   id: 421
   time: '2026-04-10T11:07:10.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: >-
+        Harpy can now use the 'Squish', 'Bubble', 'Pop', "Gnash", "Thump"
+        emotes.
+  id: 422
+  time: '2026-04-10T12:12:33.0000000+00:00'
