@@ -3335,3 +3335,9 @@ Entries:
       message: Switched the Sergeant ceremonial rifle with a proper M1 Garand! *ping!*
   id: 425
   time: '2026-04-10T13:41:36.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: BlackIron slugs now penetrate through even more walls.
+  id: 426
+  time: '2026-04-10T18:08:57.0000000+00:00'
